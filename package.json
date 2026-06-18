@@ -1,0 +1,14 @@
+{
+  "name": "nexus-website",
+  "version": "1.0.0",
+  "description": "Nexus — Agence Marketing Digital",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "serve public"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
